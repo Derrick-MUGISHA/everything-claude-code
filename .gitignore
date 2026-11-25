@@ -1,4 +1,6 @@
 # Environment files
+.env
+.env.local
 .env.*.local
 
 # API keys
@@ -12,6 +14,7 @@ Thumbs.db
 
 # Editor files
 .idea/
+.vscode/
 *.swp
 *.swo
 
@@ -37,4 +40,3 @@ examples/sessions/*.tmp
 
 # Local drafts
 marketing/
-config.bat
